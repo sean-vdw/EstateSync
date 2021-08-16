@@ -1,0 +1,26 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-image: url("../bgimg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 280px;
+}
+
+.logo {
+    max-width: 300px;
+    margin: auto;
+}
+
+.text {
+    margin: auto;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #535353;
+}

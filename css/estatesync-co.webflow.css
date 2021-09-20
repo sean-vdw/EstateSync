@@ -3,6 +3,10 @@
   margin-top: 25px;
 }
 
+#w-node-a9220378-b6ae-ce42-3012-ea7d44d1e6cf-09d60dfe {
+  margin: auto;
+}
+
 .w-embed-youtubevideo {
   width: 100%;
   position: relative;
@@ -6647,6 +6651,10 @@ blockquote {
   .price-text-1 {
     font-size: 22px;
   }
+
+  .w-layout-grid.grid-3 {
+    padding-bottom: 25px;
+  }
 }
 
 #w-node-ba98bec0-3ac8-7313-a453-0c9e0dfc2bbb-09d60dfe {
@@ -6698,6 +6706,7 @@ blockquote {
   align-self: center;
   -ms-grid-column-align: center;
   justify-self: center;
+  max-width: 150px;
 }
 
 #w-node-b2f1508d-d858-505e-6f54-e228e98750fb-09d60dfe {

@@ -5837,6 +5837,15 @@ blockquote {
 }
 
 @media screen and (max-width: 479px) {
+
+  #secureSslImg {
+    max-width: 265px;
+  }
+
+  #pplImg {
+    max-width: 185px;
+  }
+
   h1 {
     font-size: 36px;
   }

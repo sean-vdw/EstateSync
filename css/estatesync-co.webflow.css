@@ -1315,6 +1315,10 @@ blockquote {
   text-align: left;
 }
 
+.resource-subheading {
+  font-size: 28px;
+}
+
 .hero-subheading.centered {
   max-width: 740px;
   font-size: 20px;
@@ -2685,8 +2689,39 @@ blockquote {
   margin-left: auto;
 }
 
+.resource-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.resource-body iframe {
+  margin: auto;
+}
+
+.resource-text {
+  margin-top: 15px;
+}
+
+.resource-subtitle {
+  font-size: 28px;
+  margin-top: 30px;
+}
+
+.resource-bullets {
+  line-height: 1.7rem;
+  margin: 25px 0px 0px;
+}
+
+.resource-subbertitle {
+  font-size: 22px;
+}
+
+.resource-img {
+  margin: 25px 0px;
+}
+
 .content-section {
-  padding: 132px 0px;
+  padding: 130px 0px 15px;
 }
 
 .empty-text {

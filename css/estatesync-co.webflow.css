@@ -2710,6 +2710,17 @@ blockquote {
   height: 100%;
 }
 
+.resource-author {
+  color: #132e6e;
+}
+
+.resource-num {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 3% 0 1%;
+  color: #445986;
+}
+
 .resource-text {
   margin-top: 15px;
 }

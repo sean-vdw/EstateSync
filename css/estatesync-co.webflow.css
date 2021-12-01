@@ -2739,6 +2739,17 @@ blockquote {
   font-size: 22px;
 }
 
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2% 0;
+}
+
+.img-container img {
+  width: 55%;
+}
+
 .resource-img {
   margin: 25px 0px;
 }

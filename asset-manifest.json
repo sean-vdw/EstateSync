@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sean-vdw/EstateSync/static/css/main.e0c7f699.css",
+    "main.js": "/sean-vdw/EstateSync/static/js/main.e033e39b.js",
+    "static/js/787.35361bd9.chunk.js": "/sean-vdw/EstateSync/static/js/787.35361bd9.chunk.js",
+    "static/media/family.jpg": "/sean-vdw/EstateSync/static/media/family.8099ebf33d47c95e8a65.jpg",
+    "static/media/vchat.jpg": "/sean-vdw/EstateSync/static/media/vchat.aa6e0a6f07b51fab3215.jpg",
+    "static/media/vdw-photo.jpg": "/sean-vdw/EstateSync/static/media/vdw-photo.30aac01d8436ea696e0f.jpg",
+    "static/media/guide.mp4": "/sean-vdw/EstateSync/static/media/guide.90497b96136aaacaf4d3.mp4",
+    "static/media/contact.mp4": "/sean-vdw/EstateSync/static/media/contact.4c091c6fd9cedeceb861.mp4",
+    "static/media/problem.svg": "/sean-vdw/EstateSync/static/media/problem.8ab6d6f9725e9a26281c4d8968d575bd.svg",
+    "static/media/value-priority-planning-101.jpeg": "/sean-vdw/EstateSync/static/media/value-priority-planning-101.160cc6d6e9ba0a5c455a.jpeg",
+    "static/media/Infographic-POA-type-and-agent-authority.png": "/sean-vdw/EstateSync/static/media/Infographic-POA-type-and-agent-authority.fcceef19ffe266f70eb0.png",
+    "static/media/Sean-sig.png": "/sean-vdw/EstateSync/static/media/Sean-sig.894def9584fb513cafd7.png",
+    "static/media/encrypted.svg": "/sean-vdw/EstateSync/static/media/encrypted.da09c2ebe7c9707bbc3e331bad4e6063.svg",
+    "static/media/amazon.svg": "/sean-vdw/EstateSync/static/media/amazon.e02ff81ea007a246d82ee89d0d9322aa.svg",
+    "static/media/puzzle.svg": "/sean-vdw/EstateSync/static/media/puzzle.01650385c7646d4f722f84f01b7c0d69.svg",
+    "static/media/logo.svg": "/sean-vdw/EstateSync/static/media/logo.8c2a41f9e1de257a1007d7fc9682032b.svg",
+    "static/media/aws.svg": "/sean-vdw/EstateSync/static/media/aws.6c9e94255a6ca4d791f3dafd9675a055.svg",
+    "static/media/hidden.svg": "/sean-vdw/EstateSync/static/media/hidden.22cd03b2265a952943b42e57c4cbc5b8.svg",
+    "static/media/twilio.svg": "/sean-vdw/EstateSync/static/media/twilio.3f9ef3d7d3c2bd54a3e1b0705d980545.svg",
+    "index.html": "/sean-vdw/EstateSync/index.html",
+    "main.e0c7f699.css.map": "/sean-vdw/EstateSync/static/css/main.e0c7f699.css.map",
+    "main.e033e39b.js.map": "/sean-vdw/EstateSync/static/js/main.e033e39b.js.map",
+    "787.35361bd9.chunk.js.map": "/sean-vdw/EstateSync/static/js/787.35361bd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0c7f699.css",
+    "static/js/main.e033e39b.js"
+  ]
+}
